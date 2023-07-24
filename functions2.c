@@ -98,7 +98,7 @@ return (write(1, buffer, i + offset));
 * @types: Lista of arguments
 * @buffer: Buffer array to handle print
 * @flags:  Calculates active flags
-* @width: get width 
+* @width: get width
 * @precision: Precision specification
 * @size: Size specifier
 * Return: Numbers of chars printed
